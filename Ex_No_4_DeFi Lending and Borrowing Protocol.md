@@ -1,4 +1,7 @@
 # Experiment 4: DeFi Lending and Borrowing Protocol
+## Name  : MOHAMMAD FAIZAL SK
+## Reg.No: 212223240092
+##
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
 
@@ -81,6 +84,21 @@ Users can borrow ETH by providing collateral.
 
 
 If collateral < 150% of borrowed amount, liquidators can seize the collateral.
+![Screenshot 2025-05-05 182435](https://github.com/user-attachments/assets/4f20cd06-a546-40d1-b093-dd65f6870c89)
+
+![Screenshot 2025-05-05 182521](https://github.com/user-attachments/assets/d52ecf6e-e4f7-4bcc-aab7-c7f29b4bd1de)
+
+![Screenshot 2025-05-05 182553](https://github.com/user-attachments/assets/2a4fb919-73c0-4b00-a64b-57c6422c97bb)
+
+![Screenshot 2025-05-05 182626](https://github.com/user-attachments/assets/7fb2c036-2299-494e-88e1-8fdf8724bf1e)
+
+![Screenshot 2025-05-05 182657](https://github.com/user-attachments/assets/df19197a-f42e-466a-8287-58eba4a8921f)
+
+
+
+
+
+
 
 
 
@@ -94,4 +112,4 @@ Introduces risk management: overcollateralization and liquidation.
 Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
-
+thus, the given experiment is exicuted successfully
